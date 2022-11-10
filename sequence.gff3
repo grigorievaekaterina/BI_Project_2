@@ -1,0 +1,8 @@
+##sequence-region KF848938.1 1 1665
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1421435
+KF848938.1	Genbank	region	1	1665	.	+	.	ID=KF848938.1:1..1665;Dbxref=taxon:1421435;Name=4;collection-date=Jan-2011;country=USA;gbkey=Src;genome=genomic;mol_type=viral cRNA;nat-host=Homo sapiens;segment=4;serotype=H3N2;strain=A/USA/RVD1_H3/2011
+KF848938.1	Genbank	gene	1	1653	.	+	.	ID=gene-HA;Name=HA;gbkey=Gene;gene=HA;gene_biotype=protein_coding;partial=true;start_range=.,1
+KF848938.1	Genbank	CDS	1	1653	.	+	0	ID=cds-AHB59323.1;Parent=gene-HA;Dbxref=NCBI_GP:AHB59323.1;Name=AHB59323.1;gbkey=CDS;gene=HA;partial=true;product=hemagglutinin;protein_id=AHB59323.1;start_range=.,1
+KF848938.1	Genbank	mature_protein_region_of_CDS	1	987	.	+	.	ID=id-AHB59323.1:1..329;Parent=cds-AHB59323.1;gbkey=Prot;product=HA1
+KF848938.1	Genbank	mature_protein_region_of_CDS	988	1650	.	+	.	ID=id-AHB59323.1:330..550;Parent=cds-AHB59323.1;gbkey=Prot;product=HA2
+
