@@ -5,7 +5,9 @@ Ekaterina Grigorieva and Gleb Khegai
 
 
 ### Description
-Here you can find the lab notebook, the lab report, raw data and results received while working on the project. 
+New bioinformatics skills covered: deep sequence data, awk one-liners
+
+Here you can find our lab report, lab notebook, raw data and results received while working on the project. 
 
 
 ### Acknowledgments
